@@ -1,0 +1,14 @@
+{
+  "JWT_Key": "",
+  "DB_Username": "",
+  "DB_Password": "",
+  "DB_URL_ADDRESS": "jdbc:mysql://",
+  "DB_URL_PORT":  "",
+  "DB_URL_NAME": "",
+  "DB_URL_OPTION": "zeroDateTimeBehavior=convertToNull&serverTimezone=UTC",
+  "RapidApi_Key": "",
+  "AES_Key": "",
+  "OPENCAGE_KEY": "",
+  "GOOGLE_KEY": "",
+  "IMGUR_KEY": ""  
+}

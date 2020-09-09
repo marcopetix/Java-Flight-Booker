@@ -1,0 +1,8 @@
+p2\spark\Conf.class
+p2\spark\VoloRequest.class
+p2\spark\Prenotazione.class
+p2\jwt\JWT.class
+p2\logic\InterazioneApi.class
+p2\mysql\Database.class
+p2\spark\AES.class
+p2\spark\ServerApp.class

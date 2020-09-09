@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/markp/.m2/repository/org/apache/httpcomponents/httpcore/4.4.11/httpcore-4.4.11.jar;C:/Users/markp/.m2/repository/com/google/code/gson/gson/2.7/gson-2.7.jar;C:/Users/markp/.m2/repository/org/apache/httpcomponents/httpclient/4.5.9/httpclient-4.5.9.jar;C:/Users/markp/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar;C:/Users/markp/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar;C:/Users/markp/.m2/repository/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar;C:/Users/markp/.m2/repository/junit/junit/4.10/junit-4.10.jar;C:/Users/markp/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/markp/OneDrive/Documents/NetBeansProjects/P2ClientA/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2019. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/markp/OneDrive/Documents/NetBeansProjects/P2ClientA/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'P2ClientA 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/12/docs/api' 'C:/Users/markp/OneDrive/Documents/NetBeansProjects/P2ClientA/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'P2ClientA 1.0-SNAPSHOT API'
